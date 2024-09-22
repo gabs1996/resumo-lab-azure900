@@ -31,3 +31,11 @@ Próximo passo é configurar a rede ao qual você irá se conectar, tipo de port
 Por fim, passamos por gerenciamento, onde habilitamos ou não um mecanismo de defesa para nossa VM (Como o Windows Defender, já que selecionei um sistema Windows), Microsoft Entra ID, Atualizações do SO convidado, e também chegando ao último tópico o monitoramento da VM que está para ser criada, onde você cria alertas, pode habilitar o gerenciamento para diagnóstico de incialização e também de integridade.
 
 
+-----------------------------------------------
+      TIPOS DE SERVIÇO DE NUVEM:
+-----------------------------------------------
+
+Então, quando nos deparamos com os serviços em nuvem nós temos três modalidade em que podemos trabalhar, e assim também como já mencionado antes, não existe melhor ou pior, mas sim o que é mais interessante de ser adotado no momento de acordo com a necessidade, sempre buscando o melhor custo benefício, sendo eles IaaS (Infraeestrutura como serviço), SaaS (Software como serviço) e PaaS (Plataforma como serviço).
+
+Sendo o tipo IaaS onde o usuário tem maior responsabilidade e menos custos (ele tem que configurar, desde hardware e software e os gerencia-los) e o SaaS com menor responsbilidaded e maior custo, já que toda a parte de infraestrutura e software é estruturado pela empresa contratada e fica por conta do usuário somente gerenciar os recursos.
+
