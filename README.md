@@ -82,3 +82,10 @@ Nesta aula, ela explicou um pouco sobre métodos de implantação de serviços n
 Através da linha de comando, é possível importar e exportar arquivos, e o PowerShell é bastante intuitivo, com suporte a recursos como autocomplete. Ao clicar em "CLI" no lado esquerdo da tela inicial, você encontrará várias opções de configuração, incluindo a possibilidade de exportar templates de recursos já criados, com parâmetros e definições em formato JSON. Além disso, foi mencionado o Bicep Playground, que permite codificar de forma mais simplificada em comparação com os templates tradicionais do ARM.
 
 
+-----------------------------------------------
+DESAFIO 8:
+-----------------------------------------------
+
+O monitoramento no Azure é uma ferramenta importante para garantir que seus serviços e aplicativos funcionem corretamente. Com o Azure Monitor, você pode acompanhar como estão seus recursos, como máquinas virtuais e bancos de dados, verificando métricas como uso de CPU e tempo de resposta. Se algo não estiver certo, você recebe alertas, o que ajuda a resolver problemas rapidamente antes que afetem os usuários. Além disso, esse monitoramento oferece informações que podem ajudar a otimizar seus recursos e reduzir custos. É uma maneira eficaz de manter tudo funcionando bem na nuvem.
+
+
