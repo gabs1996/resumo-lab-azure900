@@ -67,7 +67,7 @@ Na Azure é o dimensionamento de recursos é orientado ao sentido de você pagar
 Há ferramentas de monitoramento de custos, onde é possível verificar onde se precisar otimizar o que é gasto, rastreamento de recursos ociosos, desvinculação de recursos, etc. Com revisão de arquitetura implantada para melhoria de serviços contratados.
 
 -----------------------------------------------
-DESAFIO 5:
+DESAFIO 6:
 -----------------------------------------------
 O gerenciamento de politicas em acessos Azure os administradores podem conceder permissões restritas para usuarios e grupos, para ter acesso somente aquilo que é necessário, onde também há um recurso do Azure AD onde você pode implementar politicas de acessos condicionais, assim controlando melhor os acessos a cada recurso.
 
