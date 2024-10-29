@@ -58,3 +58,10 @@ DESAFIO 4:
 
 Foi ensinado sobre identidades e recursos, sobre como funciona para liberar acesso a um determinado recurso, seja por uma pessoa em específico ou um grupo de pessoas. Sendo uma combinação de grupos, usuário e aplicações. Cada usuário tem acesso a determinados recursos e o "Owner" consegue administrar os mesmos, assim como mostrado na aula as vezes nem o próprio dono da conta tem acesso a tudo liberado, isso é bom pois nos força a ter conhecimento e domínio a tudo que está aberto ou não, falou também sobre algumas funcionalidades que facilita a gestão e acesso aos recursos, onde por exemplo caso o usuário esqueça a senha ele mesmo pode solicitar uma nova e assim não perder o acesso, falou sobre escopo de cada usuário e grupo também.
 Nesta aula também explanou sobre Azure Defender e seus recursos contra ameaças cibernéticas e seus recursos, onde há um monitoramento contínuo com análise de comportamentos, relatórios de segurança e alertas em tempo real.
+
+
+-----------------------------------------------
+DESAFIO 5:
+-----------------------------------------------
+Na Azure é o dimensionamento de recursos é orientado ao sentido de você pagar somente o que utiliza, onde é orientado a tamanhos apropriados e escalonamento automático (onde você pode configurar também gatilhos para isso).
+Há ferramentas de monitoramento de custos, onde é possível verificar onde se precisar otimizar o que é gasto, rastreamento de recursos ociosos, desvinculação de recursos, etc. Com revisão de arquitetura implantada para melhoria de serviços contratados.
