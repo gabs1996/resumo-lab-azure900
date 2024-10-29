@@ -39,3 +39,9 @@ Então, quando nos deparamos com os serviços em nuvem nós temos três modalida
 
 Sendo o tipo IaaS onde o usuário tem maior responsabilidade e menos custos (ele tem que configurar, desde hardware e software e os gerencia-los) e o SaaS com menor responsbilidaded e maior custo, já que toda a parte de infraestrutura e software é estruturado pela empresa contratada e fica por conta do usuário somente gerenciar os recursos.
 
+-----------------------------------------------
+DESAFIO 2:
+-----------------------------------------------
+
+Hoje ela explicou sobre a utilização dos recursos, sobre como é importante fazer uma boa gestão, para que assim prestando um serviço ou até mesmo administrando os recursos na empresa não venham nenhuma surpresa durante o processo, onde além de utilizarmos marcações na criação de recursos temos a opção agora por exemplo de ao excluir uma VM podemos excluir junto a ela alguns recursos que a acompanham, como por exemplo um disco rígido que era utilizado, ao "flagar" essa opção você pode reduzir custos. 
+
