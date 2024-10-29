@@ -65,3 +65,13 @@ DESAFIO 5:
 -----------------------------------------------
 Na Azure é o dimensionamento de recursos é orientado ao sentido de você pagar somente o que utiliza, onde é orientado a tamanhos apropriados e escalonamento automático (onde você pode configurar também gatilhos para isso).
 Há ferramentas de monitoramento de custos, onde é possível verificar onde se precisar otimizar o que é gasto, rastreamento de recursos ociosos, desvinculação de recursos, etc. Com revisão de arquitetura implantada para melhoria de serviços contratados.
+
+-----------------------------------------------
+DESAFIO 5:
+-----------------------------------------------
+O gerenciamento de politicas em acessos Azure os administradores podem conceder permissões restritas para usuarios e grupos, para ter acesso somente aquilo que é necessário, onde também há um recurso do Azure AD onde você pode implementar politicas de acessos condicionais, assim controlando melhor os acessos a cada recurso.
+
+Nisso, é possível otimizar as regras de acesso e implementação de politicas que estão de acordo com o que o usuário definir, que é de acordo com sua organização. A implementação e utilização desses recursos ajudam muito na segurança dos dados.
+
+
+
