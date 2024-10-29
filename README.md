@@ -51,3 +51,10 @@ DESAFIO 3:
 Foi construído um pipeline Azure Blob Storage de replicação de dados utilizando o Azure Box, onde há a migração de forma simples e objetiva, basta criar o recurso, alocar com uma assinatura e editar de acordo com o a url da sua pasta, onde deseja instalar e de onde deseja copiar os arquivos, lembrando que os comandos ocorrem pelo cmd do Windows (pra quem utiliza) e os dados importados podem ser públicos ou não. Para dados não públicos você precisará de um token SAS para acessar temporariamente os dados.
 
 Com o Azure Box você também consegue fazer o contrário, você consegue exportar dados da nuvem para uma pasta local.
+
+-----------------------------------------------
+DESAFIO 4:
+-----------------------------------------------
+
+Foi ensinado sobre identidades e recursos, sobre como funciona para liberar acesso a um determinado recurso, seja por uma pessoa em específico ou um grupo de pessoas. Sendo uma combinação de grupos, usuário e aplicações. Cada usuário tem acesso a determinados recursos e o "Owner" consegue administrar os mesmos, assim como mostrado na aula as vezes nem o próprio dono da conta tem acesso a tudo liberado, isso é bom pois nos força a ter conhecimento e domínio a tudo que está aberto ou não, falou também sobre algumas funcionalidades que facilita a gestão e acesso aos recursos, onde por exemplo caso o usuário esqueça a senha ele mesmo pode solicitar uma nova e assim não perder o acesso, falou sobre escopo de cada usuário e grupo também.
+Nesta aula também explanou sobre Azure Defender e seus recursos contra ameaças cibernéticas e seus recursos, onde há um monitoramento contínuo com análise de comportamentos, relatórios de segurança e alertas em tempo real.
