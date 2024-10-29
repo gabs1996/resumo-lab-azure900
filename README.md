@@ -73,5 +73,12 @@ O gerenciamento de politicas em acessos Azure os administradores podem conceder 
 
 Nisso, é possível otimizar as regras de acesso e implementação de politicas que estão de acordo com o que o usuário definir, que é de acordo com sua organização. A implementação e utilização desses recursos ajudam muito na segurança dos dados.
 
+-----------------------------------------------
+DESAFIO 7:
+-----------------------------------------------
+
+Nesta aula, ela explicou um pouco sobre métodos de implantação de serviços no Azure, incluindo como criar recursos. Um dos métodos mencionados foi o uso do portal do Azure, que permite criar recursos sem a necessidade de linhas de comando. Em seguida, foi abordada a implantação em lote, onde você pode utilizar o Cloud Shell, que oferece um ambiente de linha de comando semelhante ao PowerShell. Para usar comandos no Cloud Shell, é necessário ter uma conta de armazenamento configurada.
+
+Através da linha de comando, é possível importar e exportar arquivos, e o PowerShell é bastante intuitivo, com suporte a recursos como autocomplete. Ao clicar em "CLI" no lado esquerdo da tela inicial, você encontrará várias opções de configuração, incluindo a possibilidade de exportar templates de recursos já criados, com parâmetros e definições em formato JSON. Além disso, foi mencionado o Bicep Playground, que permite codificar de forma mais simplificada em comparação com os templates tradicionais do ARM.
 
 
