@@ -45,3 +45,9 @@ DESAFIO 2:
 
 Hoje ela explicou sobre a utilização dos recursos, sobre como é importante fazer uma boa gestão, para que assim prestando um serviço ou até mesmo administrando os recursos na empresa não venham nenhuma surpresa durante o processo, onde além de utilizarmos marcações na criação de recursos temos a opção agora por exemplo de ao excluir uma VM podemos excluir junto a ela alguns recursos que a acompanham, como por exemplo um disco rígido que era utilizado, ao "flagar" essa opção você pode reduzir custos. 
 
+-----------------------------------------------
+DESAFIO 3:
+-----------------------------------------------
+Foi construído um pipeline Azure Blob Storage de replicação de dados utilizando o Azure Box, onde há a migração de forma simples e objetiva, basta criar o recurso, alocar com uma assinatura e editar de acordo com o a url da sua pasta, onde deseja instalar e de onde deseja copiar os arquivos, lembrando que os comandos ocorrem pelo cmd do Windows (pra quem utiliza) e os dados importados podem ser públicos ou não. Para dados não públicos você precisará de um token SAS para acessar temporariamente os dados.
+
+Com o Azure Box você também consegue fazer o contrário, você consegue exportar dados da nuvem para uma pasta local.
